@@ -1,0 +1,1 @@
+﻿Ext.define('TbTrack.model.ClientCompany', {    extend: 'Ext.data.Model',    fields: [		"clientid",		"company"    ]    });
